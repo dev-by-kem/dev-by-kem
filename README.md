@@ -76,21 +76,21 @@ I am also exploring how AI tools can support a more thoughtful development workf
 <h3>Design tools</h3>
 
 <p>
-  <!-- Official Simple Icons SVGs for Blender and Figma; neutral icon for Canva and Affinity -->
-  <img height="48" width="48" src="assets/design-tool.svg" alt="Canva — neutral design-tool icon">
-  <img height="48" width="48" src="assets/design-tool.svg" alt="Affinity — neutral design-tool icon">
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/figma.svg" alt="Figma — Simple Icons">
-  <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/blender.svg" alt="Blender — Simple Icons">
+  <!-- Square icon assets first -->
+  <img height="48" width="48" src="assets/canva.svg" alt="Canva">
+  <img height="48" width="48" src="assets/affinity.svg" alt="Affinity">
+  <img height="48" width="48" src="assets/figma.svg" alt="Figma">
+  <img height="48" width="48" src="assets/blender.svg" alt="Blender">
 </p>
 
 <h3>AI tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude">
-  <img src="assets/chatgpt-badge.svg" alt="ChatGPT with official OpenAI icon">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT">
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot">
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="Google Gemini">
-  <img src="assets/manus-ai-badge.svg" alt="Manus AI with official Manus icon">
+  <img src="https://img.shields.io/badge/Manus%20AI-34322D?style=for-the-badge&logoColor=FFFFFF" alt="Manus AI">
 </p>
 
 </div>
