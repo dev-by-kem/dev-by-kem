@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/dev-by-kem">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=34&duration=2800&pause=1100&color=F5B700&background=FFF4B8&center=true&vCenter=true&width=650&height=70&lines=Heya!+I'm+Kim;Kim+Jerald+Sialana;Front-End+Developer+%26+Designer" alt="Animated introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=34&duration=1600&pause=700&color=F5B700&center=true&vCenter=true&width=650&height=70&lines=Heya!+I'm+Kim;Kim+Jerald+Sialana;Front-End+Developer+%26+Designer" alt="Animated introduction">
 </a>
 
 <p>
@@ -48,39 +48,30 @@ I am also exploring how AI tools can support a more thoughtful development workf
 <h3>Languages and markup</h3>
 
 <p>
-  <!-- Square icon assets first -->
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=java" alt="Java">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=html" alt="HTML">
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=css" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML, and CSS">
 </p>
 
 <p>
-  <!-- Rectangular badges below the square icons -->
-  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=FFFFFF" alt="Visual Basic">
+  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visualstudio&logoColor=FFFFFF" alt="Visual Basic">
   <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=FFFFFF" alt="Perl">
+</p>
+
+<h3>Tools and platforms</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio">
 </p>
 
 <h3>Databases and data</h3>
 
 <p>
-  <!-- Square icon assets first -->
-  <img height="48" width="48" src="https://skillicons.dev/icons?i=supabase" alt="Supabase">
-</p>
-
-<p>
-  <!-- Rectangular badges below the square icons -->
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" alt="SQL">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" alt="MySQL and Supabase">
 </p>
 
 <h3>Design tools</h3>
 
 <p>
-  <!-- Square icon assets first -->
-  <img height="48" width="48" src="assets/canva.svg" alt="Canva">
-  <img height="48" width="48" src="assets/affinity.svg" alt="Affinity">
-  <img height="48" width="48" src="assets/figma.svg" alt="Figma">
-  <img height="48" width="48" src="assets/blender.svg" alt="Blender">
+  <img src="https://skillicons.dev/icons?i=canva,affinity,figma,blender" alt="Canva, Affinity, Figma, and Blender">
 </p>
 
 <h3>AI tools</h3>
@@ -145,7 +136,7 @@ Through my experiences in different organizations, I have developed skills in co
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-by-kem&theme=default" alt="Kim's GitHub profile details">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-by-kem&theme=github-compact&hide_border=true" alt="Kim's GitHub activity graph">
 </div>
 
 <div align="center">
@@ -163,6 +154,7 @@ Through my experiences in different organizations, I have developed skills in co
 3. Replace the three project placeholders with your strongest development and design work.
 4. Add your organization names, roles, and accomplishments to the “Beyond the code” section.
 5. If any technology badge does not reflect your current experience, remove it or move it to “Currently learning.”
+6. GitHub activity cards are public image services. If you self-host a GitHub stats service on Vercel and it requires a token, add `PAT_1` as a Vercel environment variable in the Vercel project settings; never paste the token into this README or commit it to GitHub.
 
 <!--
   Visual direction: minimal neutral base with violet and green accents.
