@@ -127,15 +127,6 @@ Through my experiences in different organizations, I have developed skills in co
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-by-kem&show_icons=true&hide_border=true&theme=default" alt="Kim's GitHub statistics">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-by-kem&layout=compact&hide_border=true&theme=default" alt="Kim's top languages">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-by-kem&hide_border=true&theme=default" alt="Kim's GitHub contribution streak">
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-by-kem&theme=github-compact&hide_border=true" alt="Kim's GitHub activity graph">
 </div>
 
@@ -146,15 +137,6 @@ Through my experiences in different organizations, I have developed skills in co
 </div>
 
 ---
-
-### Setup notes
-
-1. Create a public repository named exactly `dev-by-kem` and place this file in it as `README.md`.
-2. Replace `[your-portfolio-url]` with your portfolio when it is ready.
-3. Replace the three project placeholders with your strongest development and design work.
-4. Add your organization names, roles, and accomplishments to the “Beyond the code” section.
-5. If any technology badge does not reflect your current experience, remove it or move it to “Currently learning.”
-6. GitHub activity cards are public image services. If you self-host a GitHub stats service on Vercel and it requires a token, add `PAT_1` as a Vercel environment variable in the Vercel project settings; never paste the token into this README or commit it to GitHub.
 
 <!--
   Visual direction: minimal neutral base with violet and green accents.
