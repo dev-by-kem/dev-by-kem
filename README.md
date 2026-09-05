@@ -97,29 +97,6 @@ I am also exploring how AI tools can support a more thoughtful development workf
 
 I am currently developing my skills in **ReactJS, Vite, and Tailwind CSS**, while continuing to improve responsive design, accessibility, component architecture, API integration, deployment, and production-oriented development practices.
 
-## Selected work
-
-### [Project name]
-
-[Describe the problem, your contribution, and what makes this project worth viewing.]
-
-**Built with:** `[Technology]` `[Technology]` `[Technology]`  
-**Links:** [Live demo] · [Source code]
-
-### [Project name]
-
-[Describe a school, personal, or organization project that demonstrates your development skills.]
-
-**Built with:** `[Technology]` `[Technology]` `[Technology]`  
-**Links:** [Live demo] · [Source code]
-
-### [Design or branding project]
-
-[Describe a poster, campaign, brand identity, UI concept, publication, or other creative work.]
-
-**Tools:** Canva · Affinity · Figma  
-**Link:** [Portfolio case study]
-
 ## Beyond the code
 
 Through my experiences in different organizations, I have developed skills in collaboration, communication, planning, creative direction, and working toward shared outcomes. I am interested in opportunities where I can contribute from both sides of the process: shaping the visual direction and helping build the product itself.
