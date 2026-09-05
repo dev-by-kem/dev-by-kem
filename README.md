@@ -74,16 +74,6 @@ I am also exploring how AI tools can support a more thoughtful development workf
   <img src="https://skillicons.dev/icons?i=canva,affinity,figma,blender" alt="Canva, Affinity, Figma, and Blender">
 </p>
 
-<h3>AI tools</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="ChatGPT">
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=FFFFFF" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Manus%20AI-34322D?style=for-the-badge&logoColor=FFFFFF" alt="Manus AI">
-</p>
-
 </div>
 
 ## Currently learning
